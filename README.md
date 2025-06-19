@@ -1,6 +1,10 @@
-# Anidroid
+<h1 align="center">Anidroid</h1>
 
-![Anidroid Logo](./logo.png)
+<p align="center">
+  <div align="center" style="background-color:#222; padding: 20px; border-radius: 16px; display: inline-block;">
+    <img src="./logo.png" alt="Animedroid Logo" width="120"/>
+  </div>
+</p>
 
 **Anidroid** es una app de anime para Android. Nada de cosas complicadas: la abres, buscas tu anime y listo. Hecha para que sea rápida, liviana y se adapte a cualquier equipo.
 
@@ -8,14 +12,14 @@
 
 ## ✨ La app ofrece
 
-- Catálogo organizado y actualizado
-- Buscador de animes por nombre (con filtros y todo eso)
-- Reproductor integrado (algunos con WebView)
+- Catálogo organizado y actualizado  
+- Buscador de animes por nombre (con filtros y todo eso)  
+- Reproductor integrado (algunos con WebView)  
 - Soporte para **Stape** y **YourUpload** en el reproductor interno  
-  *(por ahora se está trabajando en integrar **StreamWish (SW)** y **Netu**)*
-- Interfaz fluida, limpia y con modo oscuro (lo pueden cambiar)
-- Listas de reproducción personalizadas
-- Opción para desactivar los anuncios o elegir con qué frecuencia verlos si quieres apoyar el proyecto
+  *(por ahora se está trabajando en integrar **StreamWish (SW)** y **Netu**)*  
+- Interfaz fluida, limpia y con modo oscuro (lo pueden cambiar)  
+- Listas de reproducción personalizadas  
+- Opción para desactivar los anuncios o elegir con qué frecuencia verlos si quieres apoyar el proyecto  
 
 ---
 
@@ -43,3 +47,5 @@ El archivo `logo.png` (en esta misma carpeta) tiene fondo transparente y es de c
 > **PD:** Aceptamos propuestas para un nuevo logo, si te animas a crear uno 😄
 
 ---
+
+Gracias por usar Animedroid. ¡Esto apenas comienza!
