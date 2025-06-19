@@ -47,5 +47,3 @@ El archivo `logo.png` (en esta misma carpeta) tiene fondo transparente y es de c
 > **PD:** Aceptamos propuestas para un nuevo logo, si te animas a crear uno 😄
 
 ---
-
-Gracias por usar Animedroid. ¡Esto apenas comienza!
