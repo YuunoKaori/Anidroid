@@ -1,8 +1,8 @@
-# Animedroid
+# Anidroid
 
 ![Anidroid Logo](./logo.png)
 
-**Animedroid** es una app de anime para Android. Nada de cosas complicadas: la abres, buscas tu anime y listo. Hecha para que sea rápida, liviana y se adapte a cualquier equipo.
+**Anidroid** es una app de anime para Android. Nada de cosas complicadas: la abres, buscas tu anime y listo. Hecha para que sea rápida, liviana y se adapte a cualquier equipo.
 
 ---
 
