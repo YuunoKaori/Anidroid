@@ -15,8 +15,7 @@
 - Catálogo organizado y actualizado  
 - Buscador de animes por nombre (con filtros y todo eso)  
 - Reproductor integrado (algunos con WebView)  
-- Soporte para **Stape** y **YourUpload** en el reproductor interno  
-  *(por ahora se está trabajando en integrar **StreamWish (SW)** y **Netu**)*  
+- Soporte para **Stape** y **YourUpload** en el reproductor interno 
 - Interfaz fluida, limpia y con modo oscuro (lo pueden cambiar)  
 - Listas de reproducción personalizadas  
 - Opción para desactivar los anuncios o elegir con qué frecuencia verlos si quieres apoyar el proyecto  
@@ -25,8 +24,8 @@
 
 ## 🔜 Lo que viene pronto
 
-- Subida a **Aptoide** y también versión en la pestaña **Releases**
-- Página web oficial para más contenido, noticias y actualizaciones
+- Subida a **APKPURE** y también versión en la pestaña **Releases** (Ya lo subí)
+- Página web oficial para más contenido, noticias y actualizaciones (Ya lo implementé a partir de la 3.0.0)
 
 ---
 
